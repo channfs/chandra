@@ -1,7 +1,10 @@
 <div align="center">
-<img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="XrutzBot" width="170" />
+<img src="https://telegra.ph/file/413515d9f90f4c2855d9b.jpg" alt="ICIROBOT" width="170" />
 
-## Xrutz Selfbot
+## 'Deploy'
+[![Deploy](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/channfs/chandra/)
+
+## ICIROBOT
 
 </div>
 
@@ -9,10 +12,10 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bahasa&message=Indonesia&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/XrutzMalesin"><img title="Author" src="https://img.shields.io/badge/Author-Xrutz-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/channfs"><img title="Author" src="https://img.shields.io/badge/Author-Xrutz-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="XrutzOffc" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="chanOfficial" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 # Requirements
@@ -31,7 +34,7 @@
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-$ git clone https://github.com/XrutzMalesin/a-master.git
+$ git clone https://github.com/channfs/chandra.git
 $ cd a-master
 $ npm start
 ```
@@ -48,7 +51,7 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y 
 $ pkg install wget
 $ pkg install imagemagick -y
-$ git clone https://github.com/XrutzMalesin/a-master
+$ git clone https://github.com/channfs/chandra.git
 $ cd a-master
 $ npm start
 ```
@@ -56,16 +59,17 @@ $ npm start
 ## Ingin berteman sm gw? Contact!
 Whatsapp Pribadi
 <p align="center">
- <a href="https://wa.me/6283871990243"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/6285741588880"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 Bot Whatsapp Group
 <p align="center">
- <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JxoiR1jPZLN7Uqq8aMpDby"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`Youtube Channel`](https://youtube.com/channel/UCpvZphb2Rcm_J-SzLnG7Srw)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`XrutzBot`](https://github.com/XrutzMalesin)
+* ['channfs_'](https://github.com/channfs)
